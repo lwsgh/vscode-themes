@@ -1,0 +1,44 @@
+{
+  "name": "relax-eyes-theme",
+  "displayName": "Relax Eyes Theme",
+  "description": "Green color theme, relax your eyes",
+  "version": "0.0.1",
+  "publisher": "liwei",
+  "icon": "icon.png",
+  "homepage": "https://github.com/lwsgh/vscode-themes",
+  "repository": {
+    "url": "https://github.com/lwsgh/vscode-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/lwsgh/vscode-themes/issues"
+  },
+  "galleryBanner": {
+    "color": "#f66f62",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Relax Eyes Light",
+        "uiTheme": "vs",
+        "path": "./themes/RelaxEyes-Light.json"
+      },
+      {
+        "label": "Relax Eyes Warm",
+        "uiTheme": "vs",
+        "path": "./themes/RelaxEyes-Warm.json"
+      },
+      {
+        "label": "Relax Eyes",
+        "uiTheme": "vs",
+        "path": "./themes/RelaxEyes.json"
+      }
+    ]
+  }
+}
