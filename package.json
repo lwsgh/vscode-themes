@@ -2,7 +2,7 @@
   "name": "relax-eyes-theme",
   "displayName": "Relax Eyes Theme",
   "description": "Green color theme, relax your eyes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "liwei",
   "icon": "icon.png",
   "homepage": "https://github.com/lwsgh/vscode-themes",
@@ -13,7 +13,7 @@
     "url": "https://github.com/lwsgh/vscode-themes/issues"
   },
   "galleryBanner": {
-    "color": "#f66f62",
+    "color": "#fffae8",
     "theme": "dark"
   },
   "engines": {
@@ -25,19 +25,29 @@
   "contributes": {
     "themes": [
       {
+        "label": "Relax Eyes",
+        "uiTheme": "vs",
+        "path": "./themes/RelaxEyes.json"
+      },
+      {
         "label": "Relax Eyes Light",
         "uiTheme": "vs",
         "path": "./themes/RelaxEyes-Light.json"
       },
       {
-        "label": "Relax Eyes Warm",
+        "label": "Relax Eyes Gray",
         "uiTheme": "vs",
-        "path": "./themes/RelaxEyes-Warm.json"
+        "path": "./themes/RelaxEyes-Gray.json"
       },
       {
-        "label": "Relax Eyes",
+        "label": "Relax Eyes Solarized",
         "uiTheme": "vs",
-        "path": "./themes/RelaxEyes.json"
+        "path": "./themes/RelaxEyes-Solarized.json"
+      },
+      {
+        "label": "Relax Eyes Solarized (Braver)",
+        "uiTheme": "vs",
+        "path": "./themes/RelaxEyes-Braver-Solarized.json"
       }
     ]
   }
