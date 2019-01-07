@@ -1,18 +1,17 @@
 # Relax Eyes Theme
 
-An relax eyes theme base on [Solarized Color Theme](https://ethanschoonover.com/solarized/).
+Relax eyes theme base on soft green color.
 
 ## Screenshot
 
+**Relax Eyes**
 ![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-eyes.png)
 
-![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-eyes-gray.png)
+**Relax Eyes Warm**
+![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-eyes-warm.png)
 
-![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-eyes-light.png)
-
+**Relax Eyes Solarized**
 ![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-eyes-solarized.png)
-
-![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-eyes-braver-solarized.png)
 
 **Reference:**
 

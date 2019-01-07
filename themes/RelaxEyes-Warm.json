@@ -1,5 +1,5 @@
 {
-  "name": "Relax Eyes Solarized (Braver)",
+  "name": "Relax Eyes Warm",
   "type": "light",
   "colors": {
     "focusBorder": "#D3AF86",
@@ -19,7 +19,7 @@
     "list.hoverBackground": "#DFCA8844",
     "list.inactiveSelectionBackground": "#D1CBB8",
     "list.highlightForeground": "#B58900",
-    "editor.background": "#fdf6e3",
+    "editor.background": "#fffae8",
     "editor.foreground": "#657B83",
     "editorWidget.background": "#EEE8D5",
     "editorCursor.foreground": "#657B83",
@@ -40,7 +40,7 @@
     "editorGroup.dropBackground": "#DDD6C1AA",
     "editorGroupHeader.tabsBackground": "#D9D2C2",
     "tab.border": "#DDD6C1",
-    "tab.activeBackground": "#fdf6e3",
+    "tab.activeBackground": "#fffae8",
     "tab.inactiveForeground": "#586E75",
     "tab.inactiveBackground": "#D3CBB7",
     "tab.modifiedBorder": "#cb4b16",
@@ -85,7 +85,7 @@
   "tokenColors": [
     {
       "settings": {
-        "background": "#fdf6e3",
+        "background": "#fffae8",
         "caret": "#073642",
         "foreground": "#657b83",
         "gutter": "#eee8d5",
@@ -150,7 +150,6 @@
         "foreground": "#268bd2"
       }
     },
-    // The following three work for javascript, typescript, and other similar languages
     {
       "name": "Special Variables",
       "scope": ["variable.other.readwrite", "variable.other.object", "variable.other.constant"],
