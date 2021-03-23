@@ -30,14 +30,29 @@
         "path": "./themes/RelaxEyes.json"
       },
       {
+        "label": "Relax Eyes Colors",
+        "uiTheme": "vs",
+        "path": "./themes/RelaxEyes-Colors.json"
+      },
+      {
+        "label": "Relax Eyes Light",
+        "uiTheme": "vs",
+        "path": "./themes/RelaxEyes-Light.json"
+      },
+      {
+        "label": "Relax Eyes Light Colors",
+        "uiTheme": "vs",
+        "path": "./themes/RelaxEyes-Light-Colors.json"
+      },
+      {
         "label": "Relax Eyes Warm",
         "uiTheme": "vs",
         "path": "./themes/RelaxEyes-Warm.json"
       },
       {
-        "label": "Relax Eyes Solarized",
+        "label": "Relax Eyes Warm Colors",
         "uiTheme": "vs",
-        "path": "./themes/RelaxEyes-Solarized.json"
+        "path": "./themes/RelaxEyes-Warm-Colors.json"
       }
     ]
   }
