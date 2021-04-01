@@ -11,27 +11,20 @@ Relax eyes theme base on soft green color.
 
 Other background colors maybe you like:
 
+- #fffef0
+- #fffcf4 (default)
+- #fffae8
+- #fffffe
+- #fdf6e3
+- #fffcf8
+- #f8f8f8
+- #fef8ec
+- #fffcf7
+
 ```json
 "workbench.colorCustomizations": {
   "[Relax Light]": {
-    // color-1
-    // "editor.background": "#fffef0",
-    // color-2 (default)
-    // "editor.background": "#fffcf4",
-    // color-3
-    // "editor.background": "#fffae8",
-    // color-4
-    // "editor.background": "#fffffe"
-    // color-5
-    // "editor.background": "#fdf6e3"
-    // color-6
-    // "editor.background": "#fffcf8"
-    // color-7
-    // "editor.background": "#f8f8f8"
-    // color-8
-    // "editor.background": "#fef8ec"
-    // color-9
-    // "editor.background": "#fffcf7",
+    "editor.background": "#fffae8"
   }
 }
 ```
