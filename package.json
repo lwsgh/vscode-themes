@@ -1,59 +1,49 @@
 {
-  "name": "relax-eyes-theme",
-  "displayName": "Relax Eyes Theme",
-  "description": "Soft green color theme, relax your eyes",
-  "version": "0.1.1",
-  "publisher": "liwei",
-  "icon": "icon.png",
-  "homepage": "https://github.com/lwsgh/vscode-themes",
-  "repository": {
-    "url": "https://github.com/lwsgh/vscode-themes"
-  },
-  "bugs": {
-    "url": "https://github.com/lwsgh/vscode-themes/issues"
-  },
-  "galleryBanner": {
-    "color": "#f66f62",
-    "theme": "dark"
-  },
-  "engines": {
-    "vscode": "^1.30.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Relax Eyes",
-        "uiTheme": "vs",
-        "path": "./themes/RelaxEyes.json"
-      },
-      {
-        "label": "Relax Eyes Colors",
-        "uiTheme": "vs",
-        "path": "./themes/RelaxEyes-Colors.json"
-      },
-      {
-        "label": "Relax Eyes Light",
-        "uiTheme": "vs",
-        "path": "./themes/RelaxEyes-Light.json"
-      },
-      {
-        "label": "Relax Eyes Light Colors",
-        "uiTheme": "vs",
-        "path": "./themes/RelaxEyes-Light-Colors.json"
-      },
-      {
-        "label": "Relax Eyes Warm",
-        "uiTheme": "vs",
-        "path": "./themes/RelaxEyes-Warm.json"
-      },
-      {
-        "label": "Relax Eyes Warm Colors",
-        "uiTheme": "vs",
-        "path": "./themes/RelaxEyes-Warm-Colors.json"
-      }
-    ]
-  }
+	"name": "relax-eyes-theme",
+	"displayName": "Relax Eyes Theme",
+	"description": "Relaxing color theme for save eyes.",
+	"version": "2021.4.1",
+	"publisher": "liwei",
+	"icon": "icon.png",
+	"homepage": "https://github.com/lwsgh/vscode-themes",
+	"repository": {
+		"url": "https://github.com/lwsgh/vscode-themes"
+	},
+	"bugs": {
+		"url": "https://github.com/lwsgh/vscode-themes/issues"
+	},
+	"galleryBanner": {
+		"color": "#f66f62",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Relax Light",
+				"uiTheme": "vs",
+				"path": "./themes/relax-light.json"
+			},
+			{
+				"label": "Relax Light Solarized",
+				"uiTheme": "vs",
+				"path": "./themes/relax-light-solarized.json"
+			},
+			{
+				"label": "Relax Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/relax-dark.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9e5b9ca0-fd5d-4af2-a796-874fb24ba17c",
+		"publisherId": "6fb46c13-345b-4536-ba91-9a934ba9bebd",
+		"publisherDisplayName": "liwei"
+	}
 }
