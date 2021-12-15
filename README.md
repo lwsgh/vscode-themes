@@ -5,7 +5,14 @@ Relax eyes theme base on soft green color.
 ## Screenshot
 
 **Relax Light**
-![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-light.png)
+![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-light-vue.png)
+![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-light-js.png)
+![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-light-java.png)
+
+**Relax Dark**
+![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-dark-vue.png)
+![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-dark-js.png)
+![](https://raw.githubusercontent.com/lwsgh/vscode-themes/master/screenshot/relax-dark-java.png)
 
 ## Custom Settings
 

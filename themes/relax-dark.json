@@ -796,13 +796,6 @@
         "foreground": "#2bbac5"
       }
     },
-    // {
-    //   "name": "Support type",
-    //   "scope": "support.type.property-name",
-    //   "settings": {
-    //     "foreground": "#abb2bf"
-    //   }
-    // },
     {
       "name": "Support type",
       "scope": "support.constant.property-value",
